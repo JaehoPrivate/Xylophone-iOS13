@@ -1,3 +1,12 @@
+# Xylophone 수업으로 배운 점 및 원자료
+
+## 실습으로 배운 점
+* AVFoundation, AVAudioPlayer를 이용해 음악 파일을 재생하는 방법.
+* 본인이 모르는 기능을 앱에서 구현하고 싶을 때 Google 검색하는 방법 및 Stackover Flow 등으로 스스로 학습하는 방법.
+* Button의 타이틀과 각 음별 음악파일 이름을 동일하게 설정해서 버튼이 클릭될 때마다 소리가 재생되도록 설정 
+
+## 수업 원자료는 아래와 같음
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Xylophone
